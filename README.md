@@ -1,7 +1,6 @@
-## Hi there 👋
+### Boas Vindas ao Meu Perfil :red_heart
 
-<!--
-**Bryan-Matheus27/Bryan-Matheus27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome e Bryan Matheus - estou estudando Alura
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
